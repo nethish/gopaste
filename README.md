@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-go install github.com/nethish/gopaste@latest
+go install github.com/nethish/gopaste@v0.0.1
 ```
 
 ## Go Paste
