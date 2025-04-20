@@ -12,4 +12,5 @@ go install github.com/nethish/gopaste@latest
 ## Motivation
 I do lot of experiments and often copy paste code from stack overflow or ChatGPT. Every time I start a new project, create files and paste contents to it.
 It was slow and annoying (well for me it was). 
+I could've used `pbpaste` or `xclip` but it's fun to use your own tool :evil: (and reinvent the wheel)
 
