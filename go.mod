@@ -1,5 +1,5 @@
-module github.com/nethish/cliptofile
+module github.com/nethish/gopaste
 
 go 1.24.0
 
-require github.com/atotto/clipboard v0.1.4 // indirect
+require github.com/atotto/clipboard v0.1.4
